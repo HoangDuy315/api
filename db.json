@@ -1,0 +1,159 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Luxury Suites Hotel",
+      "city": "New York",
+      "rating": 5,
+      "price_per_night": 300,
+      "facilities": ["pool", "gym", "spa"]
+    },
+    {
+      "id": 2,
+      "name": "Beachfront Resort",
+      "city": "Miami",
+      "rating": 4.5,
+      "price_per_night": 250,
+      "facilities": ["beach", "pool", "restaurant"]
+    },
+    {
+      "id": 3,
+      "name": "Mountain View Lodge",
+      "city": "Denver",
+      "rating": 4.2,
+      "price_per_night": 200,
+      "facilities": ["hiking", "skiing", "restaurant"]
+    },
+    {
+      "id": 4,
+      "name": "Beach View Lounge",
+      "city": "Denver",
+      "rating": 4.2,
+      "price_per_night": 200,
+      "facilities": ["hiking", "skiing", "restaurant", "spa"]
+    },
+    {
+      "id": 5,
+      "name": "GnahYuD",
+      "city": "Los Angeles",
+      "rating": 4.9,
+      "price_per_night": 400,
+      "facilities": [
+        "hiking",
+        "skiing",
+        "restaurant",
+        "spa",
+        "Gym or fitness center"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "The Grand Hotel",
+      "city": "Los Angeles",
+      "rating": 4.2,
+      "price_per_night": 250,
+      "facilities": ["hiking", "skiing", "restaurant", "Room service"]
+    },
+    {
+      "id": 7,
+      "name": "Hilton Garden Inn",
+      "city": "Houston",
+      "rating": 4.2,
+      "price_per_night": 1300,
+      "facilities": ["hiking", "skiing", "restaurant", "Room service"]
+    },
+    {
+      "id": 8,
+      "name": "Four Seasons",
+      "city": "Phoenix",
+      "rating": 4.2,
+      "price_per_night": 900,
+      "facilities": ["hiking", "skiing", "restaurant"]
+    },
+    {
+      "id": 9,
+      "name": "Westin Grand",
+      "city": "San jose",
+      "rating": 4.2,
+      "price_per_night": 300,
+      "facilities": ["hiking", "skiing", "restaurant", "Spa or wellness center"]
+    },
+    {
+      "id": 10,
+      "name": "Wyndham Grand",
+      "city": "Chicago",
+      "rating": 4.2,
+      "price_per_night": 700,
+      "facilities": ["hiking", "skiing", "restaurant", "Spa or wellness center"]
+    },
+    {
+      "id": 11,
+      "name": "Hyatt Regency",
+      "city": "Los Angeles",
+      "rating": 4.2,
+      "price_per_night": 100,
+      "facilities": ["hiking", "skiing", "restaurant"]
+    },
+    {
+      "id": 12,
+      "name": "Holiday Inn",
+      "city": "Los Angeles",
+      "rating": 4.2,
+      "price_per_night": 400,
+      "facilities": ["hiking", "skiing", "restaurant"]
+    },
+    {
+      "id": 13
+    }
+  ],
+  "Resort": [
+    {
+      "id": 1,
+      "name": "Atlantis Paradise Island",
+      "city": "Los Angeles",
+      "rating": 4.2,
+      "price_per_night": 1200,
+      "facilities": ["hiking", "skiing", "restaurant"]
+    },
+    {
+      "id": 2,
+      "name": "Banyan Tree Phuket",
+      "city": "Boston",
+      "rating": 4.2,
+      "price_per_night": 2200,
+      "facilities": ["hiking", "skiing", "restaurant"]
+    },
+    {
+      "id": 3,
+      "name": "Beaches Turks & Caicos Resort Villages & Spa",
+      "city": "Houston",
+      "rating": 4.2,
+      "price_per_night": 2100,
+      "facilities": ["hiking", "skiing", "restaurant"]
+    },
+    {
+      "id": 4,
+      "name": "The Ritz-Carlton",
+      "city": "Chicago",
+      "rating": 4.2,
+      "price_per_night": 2200,
+      "facilities": ["hiking", "skiing", "restaurant"]
+    },
+    {
+      "id": 5,
+      "name": "The Datai Langkawi",
+      "city": "Phoenix",
+      "rating": 4.2,
+      "price_per_night": 1200,
+      "facilities": ["hiking", "skiing", "restaurant", "Gym or fitness center"]
+    },
+    {
+      "id": 6,
+      "name": "Amanpulo",
+      "city": "Los Angeles",
+      "rating": 4.2,
+      "price_per_night": 1000,
+      "facilities": ["hiking", "skiing", "restaurant"]
+    }
+  ]
+}
